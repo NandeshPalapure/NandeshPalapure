@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shekhar-patil-634918236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/palapurenandeshwar-a9651123a /" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/shekharpatil_45/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www./?hl=en" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/shekharpatil4545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.4545" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/l4545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.4545" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/shekharp_45/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://_45/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/shekharpatil45/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.45/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
 </p>
@@ -19,4 +19,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NandeshPalapure&show_icons=true&locale=en&layout=compact" alt="NandeshPalapure" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NandeshPalapure&show_icons=true&locale=en" alt="NandeshPalapure" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shekharp-45&" alt="NandeshPalapure" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NandeshPalapure&" alt="NandeshPalapure" /></p>
