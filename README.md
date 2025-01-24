@@ -19,4 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NandeshPalapure&show_icons=true&locale=en&layout=compact" alt="NandeshPalapure" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NandeshPalapure&show_icons=true&locale=en" alt="NandeshPalapure" /></p>
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-NandeshPalapure&theme=radical&hide_border=true)
